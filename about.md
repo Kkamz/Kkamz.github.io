@@ -26,14 +26,6 @@ hide_description: true
 > Tableau : [Tableau](https://public.tableau.com/app/profile/kjh3805)
 > 빅데이터 전공 (Big Data & Statistics)  
 
-## Simple Introduce
----
-+ 데이터 분석하는 것을 즐깁니다.  
-+ 데이터 속 숨은 인사이트를 찾는 것에 희열을 느낍니다.
-+ 발전을 좋아합니다.
-+ 성장을 사랑합니다.
-+ HackerRank - SQL - 56/58 Solved
-+ 포로그래머스 - Rank :  2055
 ---
 ## Work Experiences
 ---
@@ -43,6 +35,7 @@ hide_description: true
 - 설문지 로직 검토
 - 설문조사 워드클라우드 자동화 시스템 구축
 - [워드클라우드 자동화 시스템 Git](https://github.com/Kkamz/wordCloud.git)
+
 ---
 ## Activation
 ---
@@ -70,15 +63,15 @@ hide_description: true
 - 선발과정을 통해 선발
 - 머신러닝과 딥러닝 및 데이터 분석에 대한 이론 공부
 - 쏘카 데이터를 활용한 해커톤 예정
----
 
+---
 ## Skills and Certification
 ---
--Language : Python, MySQL, Postgresql  
--FrameWork: Pytorch, Tensorflow(Keras)  
--Certification :  
-                + 워드프로세서
-                + ITQ OA Master
-                + MOS Master
-                + SQLD
-                + ADsP
+### Language : Python, MySQL, Postgresql  
+### FrameWork: Pytorch, Tensorflow(Keras)  
+#### Certification :  
+##### 워드프로세서
+##### ITQ OA Master
+##### MOS Master
+##### SQLD
+#### ADsP
