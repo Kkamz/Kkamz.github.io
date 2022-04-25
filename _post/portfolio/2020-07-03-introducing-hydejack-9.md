@@ -8,7 +8,7 @@ description: >
   Modernized design, big headlines, and big new features.
 sitemap: false
 catefories:
-  - portfolio
+  - Portfolio
 ---
 
 Version 9 is the most complete version of Hydejack yet.
