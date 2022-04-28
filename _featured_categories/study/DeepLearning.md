@@ -2,7 +2,7 @@
 layout: list
 category: stduy
 bigtitle: DeepLearning
-slug: DeepLearning
+slug: deeplearning
 description: >
   딥러닝
 

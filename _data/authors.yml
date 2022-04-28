@@ -8,14 +8,14 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-         안녕하세요.  
-         데이터를 공부하고 있고  
-         데이터 분석가 & 데이터 사이언티스트를 꿈꾸는 김준형입니다.  
-         주요 스택 : MySQL | SQL | Postgresql | Python | Jupyter Notebook   
+              안녕하세요.  
+              데이터를 공부하고 있고  
+              데이터 분석가 & 데이터 사이언티스트를 꿈꾸는 김준형입니다.  
+              주요 스택 : MySQL | SQL | Postgresql | Python | Jupyter Notebook   
 
-         - **#데이터 #데이터사이언티스트 #데이터분석가 #빅데이터 #머신러닝 #딥러닝**  
-             
-         - 클릭하면 해당 페이지로 이동합니다 [**HackerRank**](https://www.hackerrank.com/alal889) | **[Github](https://github.com/Kkamz)** | [**Portfolio**](https://www.notion.so/f159cbae3e414bc5abe37e03258aa3e1) | [**Tableau Public**](https://public.tableau.com/app/profile/kjh3805)  
+              - **#데이터 #데이터사이언티스트 #데이터분석가 #빅데이터 #머신러닝 #딥러닝**  
+                  
+              - [**HackerRank**](https://www.hackerrank.com/alal889) | [**Github**](https://github.com/Kkamz) | [**Portfolio**](https://www.notion.so/f159cbae3e414bc5abe37e03258aa3e1) | [**Tableau Public**](https://public.tableau.com/app/profile/kjh3805)  
 
 
   # This photo will be used in the about section

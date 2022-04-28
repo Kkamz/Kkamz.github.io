@@ -2,7 +2,7 @@
 layout: list
 category: study
 bigtitle: MachineLearning
-slug: MachineLearning
+slug: machinelearning
 description: >
   머신러닝
 
