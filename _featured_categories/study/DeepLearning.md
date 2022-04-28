@@ -1,6 +1,6 @@
 ---
 layout: list
-category: stduy
+category: study
 bigtitle: DeepLearning
 slug: deeplearning
 description: >
