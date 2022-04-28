@@ -12,8 +12,8 @@ description: >
 
 ## 카테고리
 
-* [MachineLearing]{:.heading.flip-title} --- 딥러닝
+* [MachineLearning]{:.heading.flip-title} --- 딥러닝
 * [DeepLearning]{:.heading.flip-title} --- 머신러닝
 
-[MachineLearing]: /machinelearing/
+[MachineLearning]: /machinelearning/
 [DeepLearning]: /deeplearning/

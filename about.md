@@ -2,9 +2,8 @@
 layout: about
 image: /assets/img/me/me.jpg
 description: >
-    안녕하세요.  
-    데이터를 공부하고 있고  
-    데이터 분석가 & 데이터 사이언티스트를 꿈꾸는 김준형입니다.    
+    안녕하세요.
+    데이터를 공부하고 있고 데이터 분석가 & 데이터 사이언티스트를 꿈꾸는 김준형입니다.    
 hide_description: true
 ---
 
@@ -82,8 +81,8 @@ hide_description: true
 ### Language : Python, MySQL, Postgresql  
 ### FrameWork: Pytorch, Tensorflow(Keras)  
 #### Certification :  
-##### 워드프로세서
-##### ITQ OA Master
-##### MOS Master
-##### SQLD
-##### ADsP
+- 워드프로세서  
+- ITQ OA Master  
+- MOS Master  
+- SQLD  
+- ADsP  
