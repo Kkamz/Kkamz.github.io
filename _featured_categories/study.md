@@ -15,5 +15,5 @@ description: >
 * [MachineLearing]{:.heading.flip-title} --- 딥러닝
 * [DeepLearning]{:.heading.flip-title} --- 머신러닝
 
-[MachineLearing]: /ml/
-[DeepLearning]: /dl/
+[MachineLearing]: /machineLearing/
+[DeepLearning]: /deepLearning/
