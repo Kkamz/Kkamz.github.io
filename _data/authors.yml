@@ -7,7 +7,7 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
+  about:               |
     안녕하세요.  
     데이터를 공부하고 있고 데이터 분석가 & 데이터 사이언티스트를 꿈꾸는 김준형입니다.  
     주요 스택 : MySQL | SQL | Postgresql | Python | Jupyter Notebook   
