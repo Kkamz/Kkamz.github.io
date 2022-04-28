@@ -27,6 +27,18 @@ hide_description: true
 > 빅데이터 전공 (Big Data & Statistics)  
 
 ---
+## Simple Introduce
+---
+- **#데이터 #데이터사이언티스트 #데이터분석가 #빅데이터 #머신러닝 #딥러닝**  
+- 데이터 분석하는 것을 즐깁니다.  
+- 데이터 속 숨은 인사이트를 찾는 것에 희열을 느낍니다.  
+- 발전을 좋아합니다.  
+- 성장을 사랑합니다.  
+- 클릭하면 해당 페이지로 이동합니다 [**HackerRank**](https://www.hackerrank.com/alal889) | **[Github](https://github.com/Kkamz)** | [**Portfolio**](https://www.notion.so/f159cbae3e414bc5abe37e03258aa3e1) | [**Tableau Public**](https://public.tableau.com/app/profile/kjh3805)  
+- **HackerRank - SQL - 56/58 Solved**  
+- **포로그래머스 Rank :  2055**  
+
+---
 ## Work Experiences
 ---
 ### (주) 글로벌리서치 (2021.09.01-2021.12.28)
