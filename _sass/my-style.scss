@@ -36,7 +36,7 @@
 
 // profile avatar image
 .content .avatar {
-  float: left !important;    // 왼쪽으로 보낼지 오른쪽으로 보낼지
+  float: right !important;    // 왼쪽으로 보낼지 오른쪽으로 보낼지
   box-sizing: content-box;
   border: 1rem solid var(--body-bg);
   transition: border-color 1s ease;
