@@ -1,10 +1,10 @@
 ---
 layout: list
-category: study
-bigtitle: MachineLearning
-slug: ml
+category: stduy
+bigtitle: DeepLearning
+slug: DeepLearning
 description: >
-  머신러닝
+  딥러닝
 
 related_posts:
     - 
