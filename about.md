@@ -18,12 +18,12 @@ hide_description: true
 <center>안녕하세요. 데이터로 세상을 보는 김준형입니다.</center>
 ## Personal Data
 ---
-> 1996.03.25 대한민국 출생  
+> 1996.03.25 대한민국 출생 
+> 빅데이터 전공 (Big Data & Statistics)   
 > Mail : alal889@nate.com  
 > Github : [https://github.com/Kkamz](https://github.com/Kkamz)  
 > Notion : [포트폴리오](https://experienced-drip-bea.notion.site/d682e71708ee4f46ad25572e180c9e1d)  
-> Tableau : [Tableau](https://public.tableau.com/app/profile/kjh3805)
-> 빅데이터 전공 (Big Data & Statistics)  
+> Tableau : [Tableau](https://public.tableau.com/app/profile/kjh3805)  
 
 ---
 ## Simple Introduce
