@@ -80,7 +80,7 @@ hide_description: false
 ---
 ### Language : Python, MySQL, Postgresql  
 ### FrameWork: Pytorch, Tensorflow(Keras)  
-#### Certification :  
+### Certification :  
 - 워드프로세서  
 - ITQ OA Master  
 - MOS Master  
