@@ -19,10 +19,13 @@
         <p class="{% if text.size > 100 %}fine{% endif %}">
             {{ text | markdownify | replace:'<p>','' | replace:'</p>','' }}
         </p>
-
+        <!--블로그 조회수-->
+        <div style="text-align: center;">
+            <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkkamz.github.io&count_bg=%23BD3DC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false"/></a>
+        </div>
         {% endif %}
     </div>
-    <!--블로그 조회수-->
+
     <nav class="sidebar-nav heading" role="navigation">
         {% include body/nav.html %}
     </nav>
