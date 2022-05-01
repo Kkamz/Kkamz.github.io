@@ -14,6 +14,8 @@ description: >
 
 * [MachineLearning]{:.heading.flip-title} --- 딥러닝
 * [DeepLearning]{:.heading.flip-title} --- 머신러닝
+* [Etc]{:.heading.flip-title} --- 그외
 
 [MachineLearning]: /machinelearning/
 [DeepLearning]: /deeplearning/
+[Etc]: /etc/
