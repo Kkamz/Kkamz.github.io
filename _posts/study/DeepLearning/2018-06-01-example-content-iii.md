@@ -15,7 +15,7 @@ related_posts:
 sitemap: false
 categories:
   - study
-  - Deeplearninig
+  - DeepLearninig
 ---
 
 Hydejack offers a few additional features to markup your markdown.
