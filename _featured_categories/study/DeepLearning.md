@@ -2,7 +2,7 @@
 layout: list
 category: study
 bigtitle: DeepLearning
-slug: deeplearning
+slug: Deeplearning
 description: >
   딥러닝
 
